@@ -4,10 +4,10 @@
   python 3.7<br/>
   pyppeteer, pathlib
 
-- **start.py**<br/>
-  *登录微信公众号后台*<br/>
+- **start.py**
+  &ensp;&ensp;登录微信公众号后台<br/>
   需修改用户名密码
 
-- **mytask.py**<br/>
-  *自动化程序*<br/>
+- **mytask.py**
+  &ensp;&ensp;自动化程序<br/>
   可修改保存文件路径
