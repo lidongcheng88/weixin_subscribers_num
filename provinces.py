@@ -22,7 +22,6 @@ async def main(sheet, fname='数据表'):
     await diyu[0].click()
     tbodys = await page.xpath('//table/tbody')
     # 省份数据
-    tbodys[3]
     provinces = {}
     while True:
         trs1 = await tbodys[3].xpath('./tr')
